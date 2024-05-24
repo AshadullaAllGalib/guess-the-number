@@ -14,7 +14,9 @@ body {
   justify-content: center;
   background-color: #3a524e;
 }
-
+.resultParas p {
+  padding-top: 20px;
+}
 .lastResult {
   color: white;
   padding: 7px;
@@ -97,4 +99,15 @@ p {
   text-align: center;
   padding-top: 15px;
   line-height: 5px;
+}
+
+h2 {
+  padding-top: 10px;
+}
+span {
+  padding-top: 20px;
+}
+
+#newGame {
+  cursor: pointer;
 }
